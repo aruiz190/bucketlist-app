@@ -1,0 +1,15 @@
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.xcodeproj/project.xcworkspace
+*.xcuserdata
+
+# Firebase secrets
+GoogleService-Info.plist
+
+# Swift Packages
+.build/
+
+# Personal
+*.DS_Store
