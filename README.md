@@ -16,8 +16,5 @@ A collaborative SwiftUI-based mobile application that lets users create, manage,
 3. Add your own `GoogleService-Info.plist`.
 4. Run the app on your device or simulator.
 
-## Screenshots
-_Add screenshots here_
-
 ## License
 MIT License
